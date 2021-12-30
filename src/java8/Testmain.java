@@ -18,6 +18,7 @@ public class Testmain   {
 		int intt=list.stream().filter(i -> {
 			if(i%2==0) 
 			{
+
 				return false;
 			}else{
 				return true;
