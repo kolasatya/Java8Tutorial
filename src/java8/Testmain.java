@@ -126,6 +126,8 @@ class Xyz implements i2
 		System.out.print(t.getI());
 		
 		
+		
+		
 	}
 	 
 	 
